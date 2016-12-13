@@ -150,7 +150,7 @@ public class SimpleSample extends ChaincodeBase {
 
 	@Override
 	public String getChaincodeID() {
-		return "Banco Barcellos";
+		return "BancoBarcellos";
 	}
 
 	public static void main(String[] args) throws Exception {
